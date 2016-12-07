@@ -1,0 +1,14 @@
+{
+  "name": "qr-generator",
+  "version": "0.0.1",
+  "description": "qr generator",
+  "main": "index.html",
+  "scripts": {
+    "start": "node app"
+  },
+  "author": "edouard rabany",
+  "license": "ISC",
+  "dependencies": {
+    "qr-image": "*"
+  }
+}
